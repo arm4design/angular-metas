@@ -1,0 +1,32 @@
+{
+  "name": "angular-metas",
+  "authors": [
+    "Armando Soriano <asoriano.dev@gmail.com>"
+  ],
+  "description": "AngularJS module to set site meta tags",
+  "main": "metas.js",
+  "moduleType": [],
+  "keywords": [
+    "meta",
+    "metas",
+    "metatags",
+    "meta",
+    "tags",
+    "angular",
+    "angularjs",
+    "provider",
+    "service"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/arm4design/angular-metas#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "protractor": ">=3.1.1"
+  }
+}

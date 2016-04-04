@@ -1,0 +1,37 @@
+{
+  "name": "angular-metas",
+  "version": "1.0.0",
+  "description": "AngularJS meta tags module",
+  "main": "metas.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "protractor test/conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arm4design/angular-metas.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "meta",
+    "metatags",
+    "metas",
+    "meta tags",
+    "tags",
+    "html meta tags",
+    "provider",
+    "service"
+  ],
+  "author": "Armando Soriano <asoriano.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arm4design/angular-metas/issues"
+  },
+  "homepage": "https://github.com/arm4design/angular-metas#readme",
+  "devDependencies": {
+    "protractor": ">=3.1.1"
+  }
+}
